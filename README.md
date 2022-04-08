@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unplugelim
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning networking
+- 👀 I’m interested in cybersecurity and programming
+- 🌱 I’m currently learning networking, and practicing python and java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at joel.brainard@protonmail.com
 
